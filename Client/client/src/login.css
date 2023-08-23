@@ -1,0 +1,78 @@
+body {
+
+    background-image: linear-gradient(45deg, #7a9ceb, #f8ae74);
+
+}
+
+#Logincontainer {
+    /* height: 80vh; */
+
+
+}
+
+#backgroundImage {
+    display: inline;
+    width: 40vw;
+    border-radius: 25%;
+}
+
+#Logincontainer p {
+    /* background-color: #979aaa; */
+    /* background-image: url('https://media.nomadicmatt.com/bookaflight.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 83.3%; */
+    /* background-color: #002f72; */
+    text-align: center;
+    margin-top: 10%;
+    font-weight: bolder;
+    font-size: 2rem;
+    padding-top: 5%;
+
+}
+
+Link span {
+    text-decoration: none;
+}
+
+button {
+    width: 100%;
+}
+
+#otpfield {
+    height: 40vh;
+    margin-top: 12%;
+}
+
+#form {
+    /* display: inline; */
+    /* width: 40vw;
+    margin-top: 5%;
+    margin-left: 50vw;
+    float: right; */
+    background-image: linear-gradient(45, #90aa7b, #e9e3ca);
+    position: absolute;
+    top: 30vh;
+    left: 43vw;
+}
+
+#loginParagraph {
+    padding-left: 30%;
+}
+
+#Logincontainer p {
+    margin: auto;
+}
+
+.container {
+    height: 100vh;
+
+}
+
+#header {
+    text-align: center;
+    color: #759bf1;
+    font-weight: bolder;
+    font-size: 2rem;
+    margin-bottom: 10%;
+}

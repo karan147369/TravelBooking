@@ -1,0 +1,93 @@
+#username::first-letter {
+    text-transform: capitalize;
+}
+
+#logoutButton:hover {
+    color: red;
+}
+
+#navbar {
+    width: 100vw;
+    position: fixed;
+    z-index: 3;
+    top: 0;
+}
+
+#intro {
+    text-transform: capitalize;
+    font-weight: bolder;
+    font-size: 2rem;
+    margin-top: 10%;
+    /* margin-left: 35%; */
+}
+
+#intro span {
+    margin-left: 35%;
+
+}
+
+#table {
+    width: 50%;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.card {
+    background-color: rgb(235, 241, 248);
+    border: 1.5px solid #3152F5;
+    color: rgb(109, 128, 189);
+    font-weight: bolder;
+    font-size: 1rem;
+}
+
+table tr td {
+    color: #3152F5;
+
+}
+
+
+.field {
+    color: #45549f;
+}
+
+#previousbooking {
+    color: white
+}
+
+#previousbooking:hover {
+    border: 1px solid red;
+}
+
+#bookingMessage {
+
+    font-weight: bolder;
+    font-size: 1.5rem;
+    margin-left: 40%;
+    color: red
+}
+
+/* div ul li Link {
+    font-size: 1rem;
+} */
+#searchBar {
+    /* margin-left: 27%; */
+    width: 50%;
+    margin: auto;
+    height: 10%;
+}
+
+/* #intro {
+    width: 50vw;
+    text-align: center;
+} */
+
+/* #noBooking {
+    margin-left: 35%;
+    font-size: 2rem;
+    font-weight: bolder;
+    margin-top: -50vh;
+} */
+/* #intro_name {
+    margin-left: 50%;
+    text-align: center;
+} */

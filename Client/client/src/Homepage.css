@@ -1,0 +1,71 @@
+#homepageContainer {
+    width: 100vw;
+    background-image: url('https://www.reachabovemedia.com/wp-content/uploads/2017/11/web-design-2906159_960_720.jpg');
+    background-repeat: no-repeat;
+    background-size: 1280px 1300px;
+    background-attachment: fixed;
+    background-position-y: 20px;
+}
+
+#navbar {
+    background-color: #759bf1;
+
+}
+
+#button {
+    color: #002f72;
+    background-color: white;
+    border: 1px solid #002f72;
+    width: 7vw;
+}
+
+#heading {
+    height: 15vh;
+
+}
+
+#button:hover {
+    background-color: #002f72;
+    color: white;
+    border: 1px solid black;
+}
+
+#navbar div ul li {
+    color: white;
+    font-weight: 800;
+    font-size: 2rem;
+    text-decoration: none;
+}
+
+.nav-item {
+    margin-left: 5vw;
+}
+
+#navbar div span {
+    color: white;
+    font-weight: 800;
+    font-size: 2rem;
+}
+
+/* #navbar div ul li :hover {
+    background-color: white;
+    border: 1px solid #1259bd;
+    border-radius: 10%;
+} */
+#sidebar {
+    width: 13vw;
+    height: 92vh;
+    position: fixed;
+    top: 25vh;
+    left: 84vw;
+    text-align: justify;
+    /* border: 2px solid #002f72; */
+}
+
+.row div {
+    height: 285px;
+    /* width: 285px; */
+    color: black;
+    font-weight: 200;
+    /* font-size: 2px; */
+}
